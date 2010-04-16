@@ -16,3 +16,6 @@ end
 # uncomment to turn on ultrasphinx 
 # require_recipe "ultrasphinx"
 
+require_recipe "mongodb"
+
+
